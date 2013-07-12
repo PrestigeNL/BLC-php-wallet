@@ -2,7 +2,7 @@
 	function GetCoins($addr, $key)
 	{
 	/* Get the IP address for the target host. */
-		$address = gethostbyname('server.bloocoin.org');
+		$address = gethostbyname('209.208.79.104');
 		
 		/* Get the port for the WWW service. */
 		$service_port = 3122;
