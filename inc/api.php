@@ -41,7 +41,7 @@
 		$service_port = 3122;
 
 		/* Get the IP address for the target host. */
-		$address = gethostbyname('server.bloocoin.org');
+		$address = gethostbyname('209.208.79.104');
 
 		/* Create a TCP/IP socket. */
 		$socket = socket_create(AF_INET, SOCK_STREAM, SOL_TCP);
@@ -79,7 +79,7 @@
 		$service_port = 3122;
 
 		/* Get the IP address for the target host. */
-		$address = gethostbyname('server.bloocoin.org');
+		$address = gethostbyname('209.208.79.104');
 
 		/* Create a TCP/IP socket. */
 		$socket = socket_create(AF_INET, SOCK_STREAM, SOL_TCP);
@@ -113,7 +113,7 @@
 		$service_port = 3122;
 
 		/* Get the IP address for the target host. */
-		$address = gethostbyname('server.bloocoin.org');
+		$address = gethostbyname('209.208.79.104');
 
 		/* Create a TCP/IP socket. */
 		$socket = socket_create(AF_INET, SOCK_STREAM, SOL_TCP);
@@ -144,7 +144,7 @@
 		$service_port = 3122;
 
 		/* Get the IP address for the target host. */
-		$address = gethostbyname('server.bloocoin.org');
+		$address = gethostbyname('209.208.79.104');
 
 		/* Create a TCP/IP socket. */
 		$socket = socket_create(AF_INET, SOCK_STREAM, SOL_TCP);
@@ -175,7 +175,7 @@
 		$service_port = 3122;
 
 		/* Get the IP address for the target host. */
-		$address = gethostbyname('server.bloocoin.org');
+		$address = gethostbyname('209.208.79.104');
 
 		/* Create a TCP/IP socket. */
 		$socket = socket_create(AF_INET, SOCK_STREAM, SOL_TCP);
