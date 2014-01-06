@@ -1,4 +1,5 @@
-BLC-php-wallet
-==============
+Modifications of the BLC-PHP-Wallet
 
-a php wallet foor bloocoins
+For Rogue Battle Coins
+
+Based on bloocoins
