@@ -21,7 +21,7 @@
 			$key = fnDecrypt($_SESSION['key'], "9aN2SgPfcD1b56vY92YwOhdLdEsazG3n");
 		?>
 		<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
-		<title>Online BLC wallet - transactions</title>
+		<title>Online Wallet - transactions</title>
 		<link rel="stylesheet" href="css/960.css" type="text/css" media="screen" charset="utf-8" />
 		<!--<link rel="stylesheet" href="css/fluid.css" type="text/css" media="screen" charset="utf-8" />-->
 		<link rel="stylesheet" href="css/template.css" type="text/css" media="screen" charset="utf-8" />
