@@ -26,7 +26,7 @@
 		<link rel="stylesheet" href="css/colour.css" type="text/css" media="screen" charset="utf-8" />
 	</head>
 	<body>
-	<h1 id="head">Online RBC wallet</h1>
+	<h1 id="head">Online Wallet</h1>
 	<ul id="navigation">
 	<li><span class="active">Login</span></li>
 		</ul>
@@ -44,11 +44,11 @@
 
 					<div class="grid_5">
 						<p>
-							<label for="addr">Your RBC address:</label>
+							<label for="addr">Your Address:</label>
 							<input type="text" name="addr" />
 						</p>
 						<p>
-							<label for="key">Your RBC key:</label>
+							<label for="key">Your Key:</label>
 							<input type="password" name="key" />
 						</p>
 							
