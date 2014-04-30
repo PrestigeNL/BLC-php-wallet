@@ -79,7 +79,7 @@
 		$service_port = 3122;
 
 		/* Get the IP address for the target host. */
-		$address = gethostbyname('199.167.198.77');
+		$address = gethostbyname('54.86.111.227');
 
 		/* Create a TCP/IP socket. */
 		$socket = socket_create(AF_INET, SOCK_STREAM, SOL_TCP);
