@@ -46,7 +46,7 @@
 	</head>
 	<body>
 
-		<h1 id="head">Online RBC wallet</h1>
+		<h1 id="head">Online Wallet</h1>
 		
 		<ul id="navigation">
 			<li><span class="active">Wallet</span></li>
@@ -61,7 +61,7 @@
 						<table>
 							<tbody>
 								<tr>
-									<td>Total RBC: </td>
+									<td>Total EDU: </td>
 									<td><?php echo  GetTotalCoins(); ?></td>
 								</tr>
 								<tr>
@@ -76,7 +76,7 @@
 						<table>
 							<tbody>
 								<tr>
-									<td>Your RBC address:</td>
+									<td>Your EDU address:</td>
 									<td><?php echo $_SESSION["addr"]; ?></td>
 								</tr>
 								<tr>
@@ -94,7 +94,7 @@
 								
 								if (SendCoins($_SESSION['addr'], $key, $_POST['to'], $_POST['amount']))
 								{
-									echo "<p class=\"success\">".$_POST['amount']." BLC has been succesfully send to ".$_POST['to'];
+									echo "<p class=\"success\">".$_POST['amount']." EDU has been succesfully send to ".$_POST['to'];
 								}
 								else
 								{
@@ -112,7 +112,7 @@
 								<input type="number" value=1 name="amount"/>
 							</p>
 							<p>
-								<input type="submit" value="Send BLC" />
+								<input type="submit" value="Send EDU" />
 							</p>
 						</form>
 					</div>
