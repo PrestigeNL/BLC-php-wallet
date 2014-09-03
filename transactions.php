@@ -29,7 +29,7 @@
 	</head>
 	<body>
 		
-					<h1 id="head">Online RBC wallet</h1>
+					<h1 id="head">Online Wallet</h1>
 		
 		<ul id="navigation">
 			<li><a href="wallet.php">Wallet</a></li>
