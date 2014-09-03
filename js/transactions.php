@@ -30,7 +30,7 @@
 	</head>
 	<body>
 		
-					<h1 id="head">Online BLC wallet</h1>
+					<h1 id="head">Online EDU wallet</h1>
 		
 		<ul id="navigation">
 			<li><a href="wallet.php">Wallet</a></li>
